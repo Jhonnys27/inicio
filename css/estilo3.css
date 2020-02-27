@@ -1,0 +1,62 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(2, 2, 131);
+
+}
+
+header{
+    border: 1px solid black;
+    background-color: #ffa500;
+    width: 55%;
+    color: black;
+    
+}
+#borde2{
+    border: 1px solid black;
+    background-color: #808080;
+    width: 55%;
+    height: 30px;
+    
+}
+.comun{
+    color: white;
+}
+.comun2{
+    width: 55%;
+}
+.comun3{
+    size: "30";
+    width: 55%;
+}
+#borde3{
+    border: 1px solid black;
+    background-color: #00FFFF;
+    width: 55%;
+
+    
+
+}
+#borde4{
+    border: 1px solid black;
+    background-color: #fbd1d1;
+}
+.parrafo{
+    color: rgb(6, 6, 122);
+}
+
+#img1{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+    width: 25%;
+    height: 20%;
+}
+#titulo2{
+    color: rgb(2, 2, 126);
+}
+#info{
+    margin: 2%;
+    
+    
+}
